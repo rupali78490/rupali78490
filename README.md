@@ -9,9 +9,8 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning MongoDb
 - 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help in ny project
+- 🤔 I’m looking for help in my project
 - 💬 Ask me about 
 - 📫 How to reach me: whit my Gmail
 - ⚡ Fun fact: I am Naturally introverted selectively extroverted
